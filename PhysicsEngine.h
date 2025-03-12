@@ -5,6 +5,8 @@
 #include <vector>
 
 class PhysicsEngine {
-
+    public:
+    PhysicsEngine() {}
+    ~PhysicsEngine() {}
 };
 #endif
